@@ -34,5 +34,6 @@ The passed kata from https://leetcode.com
 * [438-find-all-anagrams-in-a-string](leetcode/438-find-all-anagrams-in-a-string)
 * [692-top-k-frequent-words](leetcode/692-top-k-frequent-words)
 * [704-binary-search](leetcode/704-binary-search)
+* [301-remove-invalid-parentheses](leetcode%2F301-remove-invalid-parentheses)
 
 
