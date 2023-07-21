@@ -22,6 +22,7 @@ The passed kata from https://leetcode.com
 * [49-group-anagrams](leetcode/49-group-anagrams)
 * [74-search-a-2d-matrix](leetcode/74-search-a-2d-matrix)
 * [81-search-in-rotated-sorted-array-ii](leetcode/81-search-in-rotated-sorted-array-ii)
+* [121-best-time-to-buy-and-sell-stock](leetcode%2F121-best-time-to-buy-and-sell-stock)
 * [136-single-number](leetcode/136-single-number)
 * [141-linked-list-cycle](leetcode/141-linked-list-cycle)
 * [153-find-minimum-in-rotated-sorted-array](leetcode/153-find-minimum-in-rotated-sorted-array)
