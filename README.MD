@@ -18,6 +18,7 @@ The passed kata from https://leetcode.com
 * [20-valid-parentheses](leetcode/20-valid-parentheses)
 * [21-merge-two-sorted-lists](leetcode/21-merge-two-sorted-lists)
 * [23-merge-k-sorted-lists](leetcode/23-merge-k-sorted-lists)
+* [26-remove-duplicates-from-sorted-array](leetcode%2F26-remove-duplicates-from-sorted-array)
 * [27-remove-element](leetcode%2F27-remove-element)
 * [33-search-in-rotated-sorted-array](leetcode/33-search-in-rotated-sorted-array)
 * [49-group-anagrams](leetcode/49-group-anagrams)
