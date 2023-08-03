@@ -23,6 +23,7 @@ The passed kata from https://leetcode.com
 * [33-search-in-rotated-sorted-array](leetcode/33-search-in-rotated-sorted-array)
 * [49-group-anagrams](leetcode/49-group-anagrams)
 * [74-search-a-2d-matrix](leetcode/74-search-a-2d-matrix)
+* [80-remove-duplicates-from-sorted-array](leetcode%2F80-remove-duplicates-from-sorted-array)
 * [81-search-in-rotated-sorted-array-ii](leetcode/81-search-in-rotated-sorted-array-ii)
 * [121-best-time-to-buy-and-sell-stock](leetcode%2F121-best-time-to-buy-and-sell-stock)
 * [136-single-number](leetcode/136-single-number)
