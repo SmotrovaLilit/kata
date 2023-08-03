@@ -28,6 +28,7 @@ The passed kata from https://leetcode.com
 * [141-linked-list-cycle](leetcode/141-linked-list-cycle)
 * [153-find-minimum-in-rotated-sorted-array](leetcode/153-find-minimum-in-rotated-sorted-array)
 * [167-two-sum-ii-input-array-is-sorted](leetcode/167-two-sum-ii-input-array-is-sorted)
+* [189-rotate-array](leetcode%2F189-rotate-array)
 * [200-number-of-islands](leetcode/200-number-of-islands)
 * [206-reverse-linked-list](leetcode/206-reverse-linked-list)
 * [242-valid-anagram](leetcode/242-valid-anagram)
