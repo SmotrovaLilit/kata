@@ -1,6 +1,6 @@
-# Two sum
+# Jump Game
 
-https://leetcode.com/problems/two-sum/solutions/
+https://leetcode.com/problems/jump-game
 
 ## [1. Backtracking ](des1)
 **Time complexity**: O(2^n)
@@ -20,5 +20,5 @@ https://leetcode.com/problems/two-sum/solutions/
 ## [4.Greedy](des4)
 **Time complexity**: O(n)
 
-**Space complexity**: O(n)
+**Space complexity**: O(1)
 
