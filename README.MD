@@ -39,6 +39,7 @@ The passed kata from https://leetcode.com
 * [206-reverse-linked-list](leetcode/206-reverse-linked-list)
 * [242-valid-anagram](leetcode/242-valid-anagram)
 * [259-3sum-smaller](leetcode/259-3sum-smaller)
+* [274-h-index](leetcode%2F274-h-index)
 * [374-guess-number-higher-or-lower](leetcode/374-guess-number-higher-or-lower)
 * [438-find-all-anagrams-in-a-string](leetcode/438-find-all-anagrams-in-a-string)
 * [692-top-k-frequent-words](leetcode/692-top-k-frequent-words)
