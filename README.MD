@@ -29,6 +29,7 @@ The passed kata from https://leetcode.com
 * [81-search-in-rotated-sorted-array-ii](leetcode/81-search-in-rotated-sorted-array-ii)
 * [121-best-time-to-buy-and-sell-stock](leetcode%2F121-best-time-to-buy-and-sell-stock)
 * [122-best-time-to-buy-and-sell-stock-ii](leetcode%2F122-best-time-to-buy-and-sell-stock-ii)
+* [135-candy](leetcode%2F135-candy)
 * [136-single-number](leetcode/136-single-number)
 * [141-linked-list-cycle](leetcode/141-linked-list-cycle)
 * [153-find-minimum-in-rotated-sorted-array](leetcode/153-find-minimum-in-rotated-sorted-array)
