@@ -44,6 +44,7 @@ The passed kata from https://leetcode.com
 * [169-majority-element](leetcode%2F169-majority-element)
 * [189-rotate-array](leetcode%2F189-rotate-array)
 * [200-number-of-islands](leetcode/200-number-of-islands)
+* [205-isomorphic-strings](leetcode%2F205-isomorphic-strings)
 * [206-reverse-linked-list](leetcode/206-reverse-linked-list)
 * [238-product-of-array-except-self](leetcode%2F238-product-of-array-except-self)
 * [242-valid-anagram](leetcode/242-valid-anagram)
