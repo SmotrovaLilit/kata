@@ -48,6 +48,7 @@ The passed kata from https://leetcode.com
 * [202-happy-number](leetcode%2F202-happy-number)
 * [205-isomorphic-strings](leetcode%2F205-isomorphic-strings)
 * [206-reverse-linked-list](leetcode/206-reverse-linked-list)
+* [228-summary-ranges](leetcode%2F228-summary-ranges)
 * [238-product-of-array-except-self](leetcode%2F238-product-of-array-except-self)
 * [242-valid-anagram](leetcode/242-valid-anagram)
 * [259-3sum-smaller](leetcode/259-3sum-smaller)
