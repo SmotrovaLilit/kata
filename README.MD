@@ -62,4 +62,14 @@ The passed kata from https://leetcode.com
 * [692-top-k-frequent-words](leetcode/692-top-k-frequent-words)
 * [704-binary-search](leetcode/704-binary-search)
 
+## Codewars
+https://www.codewars.com/users/BabayanLilit
 
+The passed kata from https://www.codewars.com/kata/
+
+### Problems
+#### Concurrency
+[mergingnchannels](codewars%2Fmergingnchannels)
+
+## Other issues
+[other](other)
