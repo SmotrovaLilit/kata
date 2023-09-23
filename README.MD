@@ -34,6 +34,7 @@ The passed kata from https://leetcode.com
 * [81-search-in-rotated-sorted-array-ii](leetcode/81-search-in-rotated-sorted-array-ii)
 * [101-symmetric-tree](leetcode%2F101-symmetric-tree)
 * [104-maximum-depth-of-binary-tree](leetcode%2F104-maximum-depth-of-binary-tree)
+* [112-path-sum](leetcode%2F112-path-sum)
 * [121-best-time-to-buy-and-sell-stock](leetcode%2F121-best-time-to-buy-and-sell-stock)
 * [125-valid-palindrome](leetcode%2F125-valid-palindrome)
 * [122-best-time-to-buy-and-sell-stock-ii](leetcode%2F122-best-time-to-buy-and-sell-stock-ii)
