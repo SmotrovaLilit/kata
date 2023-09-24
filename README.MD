@@ -63,6 +63,7 @@ The passed kata from https://leetcode.com
 * [374-guess-number-higher-or-lower](leetcode/374-guess-number-higher-or-lower)
 * [380-insert-delete-getrandom-o1](leetcode%2F380-insert-delete-getrandom-o1)
 * [438-find-all-anagrams-in-a-string](leetcode/438-find-all-anagrams-in-a-string)
+* [637-average-of-levels-in-binary-tree](leetcode%2F637-average-of-levels-in-binary-tree)
 * [692-top-k-frequent-words](leetcode/692-top-k-frequent-words)
 * [704-binary-search](leetcode/704-binary-search)
 
