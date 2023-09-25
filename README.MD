@@ -49,6 +49,7 @@ The passed kata from https://leetcode.com
 * [167-two-sum-ii-input-array-is-sorted](leetcode/167-two-sum-ii-input-array-is-sorted)
 * [169-majority-element](leetcode%2F169-majority-element)
 * [189-rotate-array](leetcode%2F189-rotate-array)
+* [190-reverse-bits](leetcode%2F190-reverse-bits)
 * [200-number-of-islands](leetcode/200-number-of-islands)
 * [202-happy-number](leetcode%2F202-happy-number)
 * [205-isomorphic-strings](leetcode%2F205-isomorphic-strings)
