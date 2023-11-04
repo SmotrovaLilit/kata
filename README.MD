@@ -12,6 +12,7 @@ The passed kata from https://leetcode.com
 
 * [1. Two sum](leetcode/1-two-sum)
 * [2-add-two-numbers](leetcode/2-add-two-numbers)
+* [3-longest-substring-without-repeating-characters](leetcode%2F3-longest-substring-without-repeating-characters)
 * [9-palindrome-number](leetcode%2F9-palindrome-number)
 * [11-container-with-most-water](leetcode%2F11-container-with-most-water)
 * [12-integer-to-roman](leetcode%2F12-integer-to-roman)
