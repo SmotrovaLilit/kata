@@ -27,6 +27,7 @@ The passed kata from https://leetcode.com
 * [28-find-the-index-of-the-first-occurrence-in-a-string](leetcode%2F28-find-the-index-of-the-first-occurrence-in-a-string)
 * [33-search-in-rotated-sorted-array](leetcode/33-search-in-rotated-sorted-array)
 * [35-search-insert-position](leetcode%2F35-search-insert-position)
+* [36-valid-sudoku](leetcode%2F36-valid-sudoku)
 * [45-jump-game-ii](leetcode%2F45-jump-game-ii)
 * [49-group-anagrams](leetcode/49-group-anagrams)
 * [55-jump-game](leetcode%2F55-jump-game)
