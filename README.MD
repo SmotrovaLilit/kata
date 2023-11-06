@@ -29,6 +29,7 @@ The passed kata from https://leetcode.com
 * [35-search-insert-position](leetcode%2F35-search-insert-position)
 * [45-jump-game-ii](leetcode%2F45-jump-game-ii)
 * [49-group-anagrams](leetcode/49-group-anagrams)
+* [54-spiral-matrix](leetcode%2F54-spiral-matrix)
 * [55-jump-game](leetcode%2F55-jump-game)
 * [58-length-of-last-word](leetcode%2F58-length-of-last-word)
 * [66-plus-one](leetcode%2F66-plus-one)
