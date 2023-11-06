@@ -92,3 +92,6 @@ The passed kata from https://www.codewars.com/kata/
 
 ## Other issues
 [other](other)
+
+## Examples
+[examples](examples)
