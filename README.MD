@@ -33,6 +33,7 @@ The passed kata from https://leetcode.com
 * [49-group-anagrams](leetcode/49-group-anagrams)
 * [54-spiral-matrix](leetcode%2F54-spiral-matrix)
 * [55-jump-game](leetcode%2F55-jump-game)
+* [56-merge-intervals](leetcode%2F56-merge-intervals)
 * [58-length-of-last-word](leetcode%2F58-length-of-last-word)
 * [66-plus-one](leetcode%2F66-plus-one)
 * [67-add-binary](leetcode%2F67-add-binary)
