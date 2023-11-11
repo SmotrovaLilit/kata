@@ -60,6 +60,7 @@ The passed kata from https://leetcode.com
 * [189-rotate-array](leetcode%2F189-rotate-array)
 * [190-reverse-bits](leetcode%2F190-reverse-bits)
 * [191-number-of-1-bits](leetcode%2F191-number-of-1-bits)
+* [199-binary-tree-right-side-view](leetcode%2F199-binary-tree-right-side-view)
 * [200-number-of-islands](leetcode/200-number-of-islands)
 * [202-happy-number](leetcode%2F202-happy-number)
 * [205-isomorphic-strings](leetcode%2F205-isomorphic-strings)
