@@ -68,6 +68,7 @@ The passed kata from https://leetcode.com
 * [206-reverse-linked-list](leetcode/206-reverse-linked-list)
 * [208-implement-trie-prefix-tree](leetcode%2F208-implement-trie-prefix-tree)
 * [209-minimum-size-subarray-sum](leetcode%2F209-minimum-size-subarray-sum)
+* [211-design-add-and-search-words-data-structure](leetcode%2F211-design-add-and-search-words-data-structure)
 * [222-count-complete-tree-nodes](leetcode%2F222-count-complete-tree-nodes)
 * [226-nvert-binary-tree](leetcode%2F226-nvert-binary-tree)
 * [228-summary-ranges](leetcode%2F228-summary-ranges)
