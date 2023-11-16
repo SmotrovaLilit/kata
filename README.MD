@@ -61,6 +61,7 @@ The passed kata from https://leetcode.com
 * [189-rotate-array](leetcode%2F189-rotate-array)
 * [190-reverse-bits](leetcode%2F190-reverse-bits)
 * [191-number-of-1-bits](leetcode%2F191-number-of-1-bits)
+* [198-house-robber](leetcode%2F198-house-robber)
 * [199-binary-tree-right-side-view](leetcode%2F199-binary-tree-right-side-view)
 * [200-number-of-islands](leetcode/200-number-of-islands)
 * [202-happy-number](leetcode%2F202-happy-number)
