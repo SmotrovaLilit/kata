@@ -79,6 +79,7 @@ The passed kata from https://leetcode.com
 * [259-3sum-smaller](leetcode/259-3sum-smaller)
 * [274-h-index](leetcode%2F274-h-index)
 * [290-word-pattern](leetcode%2F290-word-pattern)
+* [322-coin-change](leetcode%2F322-coin-change)
 * [383-ransom-note](leetcode%2F383-ransom-note)
 * [392-is-subsequence](leetcode%2F392-is-subsequence)
 * [374-guess-number-higher-or-lower](leetcode/374-guess-number-higher-or-lower)
