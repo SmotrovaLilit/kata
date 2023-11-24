@@ -3,7 +3,7 @@ package des2
 import (
 	"fmt"
 	"github.com/stretchr/testify/require"
-	. "leetcode/leetcode/pkg/tree"
+	. "leetcode/leetcode/pkg/helper"
 	"math"
 	"testing"
 )

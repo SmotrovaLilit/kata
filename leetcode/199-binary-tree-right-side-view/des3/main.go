@@ -1,7 +1,7 @@
 package des3
 
 import (
-	. "leetcode/leetcode/pkg/tree"
+	. "leetcode/leetcode/pkg/helper"
 )
 
 func rightSideView(root *TreeNode) []int {

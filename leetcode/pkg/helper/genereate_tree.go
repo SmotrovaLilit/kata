@@ -1,4 +1,4 @@
-package tree
+package helper
 
 func GenerateTree(nodeCount int) *TreeNode {
 	root := &TreeNode{

@@ -1,7 +1,7 @@
 package des0
 
 import (
-	. "leetcode/leetcode/pkg/tree"
+	. "leetcode/leetcode/pkg/helper"
 	"math"
 	"sort"
 )
