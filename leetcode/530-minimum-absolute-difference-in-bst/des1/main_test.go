@@ -2,7 +2,7 @@ package des0
 
 import (
 	"github.com/stretchr/testify/require"
-	. "leetcode/leetcode/pkg/tree"
+	. "leetcode/leetcode/pkg/helper"
 	"testing"
 )
 

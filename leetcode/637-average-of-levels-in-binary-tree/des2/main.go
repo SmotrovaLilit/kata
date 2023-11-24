@@ -1,11 +1,11 @@
 package des2
 
 import (
-	. "leetcode/leetcode/pkg/tree"
+	. "leetcode/leetcode/pkg/helper"
 )
 
 /**
- * Definition for a binary tree tree.
+ * Definition for a binary tree node.
  * type TreeNode struct {
  *     Val int
  *     Left *TreeNode

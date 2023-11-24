@@ -43,6 +43,7 @@ The passed kata from https://leetcode.com
 * [74-search-a-2d-matrix](leetcode/74-search-a-2d-matrix)
 * [80-remove-duplicates-from-sorted-array](leetcode%2F80-remove-duplicates-from-sorted-array)
 * [81-search-in-rotated-sorted-array-ii](leetcode/81-search-in-rotated-sorted-array-ii)
+* [92-reverse-linked-list-ii](leetcode%2F92-reverse-linked-list-ii)
 * [101-symmetric-tree](leetcode%2F101-symmetric-tree)
 * [104-maximum-depth-of-binary-tree](leetcode%2F104-maximum-depth-of-binary-tree)
 * [108-convert-sorted-array-to-binary-search-tree](leetcode%2F108-convert-sorted-array-to-binary-search-tree)
