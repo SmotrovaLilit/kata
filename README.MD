@@ -53,6 +53,7 @@ The passed kata from https://leetcode.com
 * [130-surrounded-regions](leetcode%2F130-surrounded-regions)
 * [135-candy](leetcode%2F135-candy)
 * [136-single-number](leetcode/136-single-number)
+* [138-copy-list-with-random-pointer](leetcode%2F138-copy-list-with-random-pointer)
 * [139-word-break](leetcode%2F139-word-break)
 * [141-linked-list-cycle](leetcode/141-linked-list-cycle)
 * [151-reverse-words-in-a-string](leetcode%2F151-reverse-words-in-a-string)
