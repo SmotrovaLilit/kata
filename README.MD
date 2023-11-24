@@ -36,6 +36,7 @@ The passed kata from https://leetcode.com
 * [55-jump-game](leetcode%2F55-jump-game)
 * [56-merge-intervals](leetcode%2F56-merge-intervals)
 * [58-length-of-last-word](leetcode%2F58-length-of-last-word)
+* [61-rotate-list](leetcode%2F61-rotate-list)
 * [66-plus-one](leetcode%2F66-plus-one)
 * [67-add-binary](leetcode%2F67-add-binary)
 * [69-sqrtx](leetcode%2F69-sqrtx)
