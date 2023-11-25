@@ -54,6 +54,7 @@ The passed kata from https://leetcode.com
 * [112-path-sum](leetcode%2F112-path-sum)
 * [121-best-time-to-buy-and-sell-stock](leetcode%2F121-best-time-to-buy-and-sell-stock)
 * [125-valid-palindrome](leetcode%2F125-valid-palindrome)
+* [128-longest-consecutive-sequence](leetcode%2F128-longest-consecutive-sequence)
 * [122-best-time-to-buy-and-sell-stock-ii](leetcode%2F122-best-time-to-buy-and-sell-stock-ii)
 * [130-surrounded-regions](leetcode%2F130-surrounded-regions)
 * [135-candy](leetcode%2F135-candy)
