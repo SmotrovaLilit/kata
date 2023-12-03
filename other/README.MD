@@ -8,4 +8,9 @@
 - [goroutinesandchannels](goroutinesandchannels)
 - [raceconditions](raceconditions)
 - [select](select)
-- 
+- [context](context)
+- [workerpool](workerpool)
+
+## Other
+- [calc](calc)
+- [fib](fib)
