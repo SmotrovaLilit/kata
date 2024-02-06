@@ -43,6 +43,7 @@ The passed kata from https://leetcode.com
 * [69-sqrtx](leetcode%2F69-sqrtx)
 * [70-climbing-stairs](leetcode%2F70-climbing-stairs)
 * [71-simplify-path](leetcode%2F71-simplify-path)
+* [73-set-matrix-zeroes](leetcode%2F73-set-matrix-zeroes)
 * [74-search-a-2d-matrix](leetcode/74-search-a-2d-matrix)
 * [80-remove-duplicates-from-sorted-array](leetcode%2F80-remove-duplicates-from-sorted-array)
 * [81-search-in-rotated-sorted-array-ii](leetcode/81-search-in-rotated-sorted-array-ii)
