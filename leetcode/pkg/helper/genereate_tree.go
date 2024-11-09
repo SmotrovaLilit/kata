@@ -50,7 +50,6 @@ func (q *queue) add(val *TreeNode) {
 		Val: val,
 	}
 	q.tail = q.tail.Next
-
 }
 
 func (q *queue) poll() *TreeNode {

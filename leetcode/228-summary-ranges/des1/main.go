@@ -15,7 +15,6 @@ func summaryRanges(nums []int) []string {
 		} else {
 			result = append(result, fmt.Sprintf("%d->%d", start, nums[i]))
 		}
-
 	}
 
 	return result

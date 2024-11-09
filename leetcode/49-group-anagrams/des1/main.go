@@ -18,7 +18,6 @@ func groupAnagrams(strs []string) [][]string {
 				res[len(res)-1] = append(res[len(res)-1], strs[j])
 			}
 		}
-
 	}
 	return res
 }

@@ -6,7 +6,7 @@ package des1
  *     Val int
  *     Left *TreeNode
  *     Right *TreeNode
- * }
+ * }.
  */
 func isSameTree(p *TreeNode, q *TreeNode) bool {
 	st := newStack()

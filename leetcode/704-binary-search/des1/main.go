@@ -13,7 +13,6 @@ func search(nums []int, target int) int {
 			continue
 		}
 		start = i + 1
-
 	}
 	return -1
 }

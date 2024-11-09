@@ -10,7 +10,6 @@ func lengthOfLastWord(s string) int {
 		} else if result > 0 {
 			return result
 		}
-
 	}
 	return result
 }

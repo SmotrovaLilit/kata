@@ -6,7 +6,7 @@ package des1
  *     Val int
  *     Left *TreeNode
  *     Right *TreeNode
- * }
+ * }.
  */
 func isSymmetric(root *TreeNode) bool {
 	if root == nil {

@@ -105,9 +105,31 @@ https://www.codewars.com/users/BabayanLilit
 
 The passed kata from https://www.codewars.com/kata/
 
+### Cracking the Coding Interview
+https://www.amazon.com/dp/0984782850/
+
+#### Linked Lists
+* [2_1](book-cracking-coding-interview/2_1)
+* [2_2](book-cracking-coding-interview/2_2)
+* [2_3](book-cracking-coding-interview/2_3)
+* [2_5](book-cracking-coding-interview/2_5)
+* [2_6](book-cracking-coding-interview/2_6)
+* [2_8](book-cracking-coding-interview/2_8)
+* 
+
+### [Daily Coding Problem](https://www.dailycodingproblem.com/)
+
+- [p2](daily-coding-problem/p2)
+
 ### Problems
 #### Concurrency
 [mergingnchannels](codewars%2Fmergingnchannels)
 
 ## Other issues
 [other](other)
+
+## Examples
+
+* [synccond](examples/synccond)
+* [synconce](examples/synconce)
+* [syncpool](examples/syncpool)

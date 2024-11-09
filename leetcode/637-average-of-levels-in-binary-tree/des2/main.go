@@ -10,7 +10,7 @@ import (
  *     Val int
  *     Left *TreeNode
  *     Right *TreeNode
- * }
+ * }.
  */
 
 type levelInformation struct {

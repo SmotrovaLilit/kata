@@ -13,12 +13,12 @@ func merge(nums1 []int, m int, nums2 []int, n int) {
 			nums1 = append(nums1[:i], nums1Copy[iNums1:]...)
 			return
 		}
-		//if iNums1 >= m {
+		// if iNums1 >= m {
 		//	nums1[i] = nums2[iNums2]
 		//	iNums2++
 		//	continue
 		//}
-		//if iNums2 >= n {
+		// if iNums2 >= n {
 		//	nums1[i] = nums1Copy[iNums1]
 		//	iNums1++
 		//	continue

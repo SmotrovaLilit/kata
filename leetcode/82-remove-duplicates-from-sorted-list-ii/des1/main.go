@@ -9,7 +9,7 @@ import (
  * type ListNode struct {
  *     Val int
  *     Next *ListNode
- * }
+ * }.
  */
 func deleteDuplicates(head *ListNode) *ListNode {
 	if head == nil || head.Next == nil {
@@ -27,7 +27,6 @@ func deleteDuplicates(head *ListNode) *ListNode {
 		// move prev only when node.Val != node.Next.Val
 		prev = node
 		node = node.Next
-
 	}
 	return dummy.Next
 }

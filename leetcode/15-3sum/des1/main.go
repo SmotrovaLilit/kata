@@ -22,7 +22,6 @@ func threeSum(nums []int) [][]int {
 						nums[i], nums[j], nums[k],
 					})
 				}
-
 			}
 		}
 	}

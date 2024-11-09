@@ -20,7 +20,6 @@ func (s *stack) Push(val int32) {
 	} else {
 		s.head = node
 	}
-
 }
 
 func (s *stack) Pop() int32 {
@@ -49,7 +48,6 @@ func isValid(s string) bool {
 		} else {
 			stMain.Push(v)
 		}
-
 	}
 
 	return stMain.IsEmpty()
@@ -63,7 +61,6 @@ func getOpenBracketCode(val int32) int32 {
 		return []rune("{")[0]
 	case []rune(")")[0]:
 		return []rune("(")[0]
-
 	}
 	panic(fmt.Sprintf("incorrect symbol %d", val))
 }
@@ -79,5 +76,4 @@ func isClosedBracket(val int32) bool {
 		return true
 	}
 	return false
-
 }

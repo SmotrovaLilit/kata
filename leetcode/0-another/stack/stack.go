@@ -24,7 +24,6 @@ func (s *stack) Push(val int32) {
 	} else {
 		s.head = node
 	}
-
 }
 
 func (s *stack) Pop() int32 {
