@@ -16,7 +16,6 @@ func newWordBreaking(wordDict []string, s string) *wordBreaking {
 		wordDict: wordDict,
 		s:        s,
 	}
-
 }
 
 func (w *wordBreaking) dp(i int) bool {

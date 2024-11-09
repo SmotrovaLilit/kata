@@ -9,7 +9,7 @@ import (
  * type ListNode struct {
  *     Val int
  *     Next *ListNode
- * }
+ * }.
  */
 func reverseBetween(head *ListNode, left int, right int) *ListNode {
 	if left > right {
@@ -35,7 +35,7 @@ func reverseBetween(head *ListNode, left int, right int) *ListNode {
 					beforeFirstSub.Next = node
 					break
 				}
-				if next == nil { //subsequence is the whole list
+				if next == nil { // subsequence is the whole list
 					head = node
 					break
 				}

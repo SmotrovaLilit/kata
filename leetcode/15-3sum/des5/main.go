@@ -25,7 +25,6 @@ func threeSum(nums []int) [][]int {
 				}
 			}
 			seen[nums[j]] = i // убеждаемся что мы нашли элемент в той же итерации i
-
 		}
 	}
 	return result

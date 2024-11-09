@@ -11,7 +11,7 @@ func topKFrequent(words []string, k int) []string {
 		countWords[v]++
 	}
 	keys := make([]string, 0, len(countWords))
-	for i, _ := range countWords {
+	for i := range countWords {
 		keys = append(keys, i)
 	}
 	sort.SliceStable(keys, func(i, j int) bool {

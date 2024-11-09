@@ -37,6 +37,5 @@ func longOperation(ctx context.Context, finished chan struct{}) {
 		return
 	case <-time.After(2 * time.Second): // imitating job
 		finished <- struct{}{}
-
 	}
 }

@@ -50,7 +50,6 @@ func bfs(board [][]byte, row, col int) {
 			q.add(row-1, col)
 		}
 	}
-
 }
 
 type node struct {

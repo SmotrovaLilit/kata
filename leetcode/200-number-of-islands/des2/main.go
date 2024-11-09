@@ -12,12 +12,10 @@ func bfs(grid [][]byte, r, c int) {
 		if row-1 >= 0 && grid[row-1][col] == '1' {
 			queue = append(queue, [2]int{row - 1, col})
 			grid[row-1][col] = '0'
-
 		}
 		if row+1 < len(grid) && grid[row+1][col] == '1' {
 			queue = append(queue, [2]int{row + 1, col})
 			grid[row+1][col] = '0'
-
 		}
 		if col-1 >= 0 && grid[row][col-1] == '1' {
 			queue = append(queue, [2]int{row, col - 1})

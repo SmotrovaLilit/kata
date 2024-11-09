@@ -14,7 +14,7 @@ func productExceptSelf(nums []int) []int {
 		r[i] = r[i+1] * nums[i+1]
 	}
 
-	for i, _ := range nums {
+	for i := range nums {
 		nums[i] = l[i] * r[i]
 	}
 	return nums

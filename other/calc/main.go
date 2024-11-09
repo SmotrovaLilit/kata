@@ -21,7 +21,6 @@ func calc(expr string) float64 {
 		case "/":
 			return calc(left) / calc(right)
 		}
-
 	}
 	return 0
 }

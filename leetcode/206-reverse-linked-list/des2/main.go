@@ -27,7 +27,7 @@ func NewListNode(values ...int) *ListNode {
  * type ListNode struct {
  *     Val int
  *     Next *ListNode
- * }
+ * }.
  */
 func reverseList(head *ListNode) *ListNode {
 	current := head

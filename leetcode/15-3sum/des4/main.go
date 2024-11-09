@@ -28,7 +28,6 @@ func threeSum(nums []int) [][]int {
 			}
 			numsIndexes[nums[j]] = struct{}{}
 		}
-
 	}
 	return result
 }

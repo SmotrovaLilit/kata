@@ -32,7 +32,7 @@ func ff2(nums []int, k int) []int {
 		m[nums[i]]++
 	}
 	keys := make([]int, 0, len(m))
-	for k, _ := range m {
+	for k := range m {
 		keys = append(keys, k)
 	}
 	sort.Slice(keys, func(i, j int) bool {
@@ -48,7 +48,7 @@ func fff(nums []int, k int) []int {
 	}
 	keys := nums[0:len(m)]
 	i := 0
-	for k, _ := range m {
+	for k := range m {
 		keys[i] = k
 		i++
 	}

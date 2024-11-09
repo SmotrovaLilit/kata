@@ -25,7 +25,6 @@ func rightSideView(root *TreeNode) []int {
 				q.push(v.Right)
 			}
 		}
-
 	}
 	return res
 }
@@ -57,7 +56,6 @@ func (s *queue) push(val *TreeNode) {
 	}
 	s.last.next = node
 	s.last = node
-
 }
 
 func (s *queue) pop() *TreeNode {
